@@ -1,1 +1,1 @@
-# fast-heat
+# fast-thermal-comfort
